@@ -1,0 +1,6 @@
+1. Start
+2. Read all triangle measures. For example, a,b and c
+3. Verify if it is possible build a triangle with these measures
+4. If it is not possible, print a message on the screen telling the user to try again
+If it is possible, print a message on the screen telling that was possible to build a triangle with these measures
+5. End
