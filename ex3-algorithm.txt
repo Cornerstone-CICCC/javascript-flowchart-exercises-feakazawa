@@ -1,0 +1,10 @@
+1. Start
+2. Read number1, numer2 and number3
+3. Verify if all numbers are different
+4. If they are not all different, print a message asking the user to enter distinct numbers
+5. If they are all differents, verify if number1 is the largest between them 
+6. If number1 is the largest one, print it on the screen
+7. If number 1 is not the largest, verify if the number2 is the largest.
+8. If number2 is the largest one, print it on the screen
+9. If number1 and number2 are not the largest, print number3 at the screen
+10 End
